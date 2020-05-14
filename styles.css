@@ -56,7 +56,7 @@
 	background-color: #ffffff;
 	text-align: center;
 	border-radius: 20.2px;
-	padding: 16px 43px 16px 42px;
+	padding: 0px 8px 0px 8px;
 	text-transform: uppercase;
 	line-height: 2.8;
 	letter-spacing: 2.87px;
@@ -69,7 +69,7 @@
 	background: transparent;
 	text-align: center;
 	border-radius: 20.2px;
-	padding: 16px 43px 16px 42px;
+	padding: 0px 8px 0px 8px;
 	text-transform: uppercase;
 	line-height: 2.8;
 	letter-spacing: 2.87px;
@@ -114,7 +114,6 @@
 
 .about-paragraph{
 	display: flex;
-	max-width: 400px;
 }
 
 .row{
@@ -137,6 +136,7 @@
 
 .secondsection{
 	background: #d1bac8;
+	padding: 40px 0px 40px 0px;
 }
 
 .portfolio-item{
@@ -168,6 +168,7 @@
 
 .colorGrey1{
 	color: rgba(0,0,0,0.7);
+	max-width: 400px;
 }
 
 .colorGrey2{
@@ -222,7 +223,7 @@
 	text-align: center;
 	background-color: #000000;
 	border-radius: 20.2px;
-	padding: 16px 43px 16px 42px;
+	padding: 0px 8px 0px 8px;
 	text-transform: uppercase;
 	line-height: 2.8;
 	letter-spacing: 2.87px;
